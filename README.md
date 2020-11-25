@@ -1,8 +1,8 @@
 Compile \
 
-javac GameHelper.java\
-javac SimpleDotCom.java\
-javac SimpleDotComGame.java\
+javac GameHelper.java  
+javac SimpleDotCom.java  
+javac SimpleDotComGame.java  
 
 Execute \
 
